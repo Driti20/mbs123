@@ -1,0 +1,4 @@
+2022/04/15 10:27:26 [error] 13976#15224: *188 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10003", host: "mbs.local", referrer: "http://mbs.local/wp-admin/themes.php"
+2022/05/27 18:39:06 [alert] 2400#7108: OpenEvent("ngx_master_13816") failed (2: The system cannot find the file specified)
+2022/07/07 17:19:50 [alert] 21248#1976: OpenEvent("ngx_master_22740") failed (2: The system cannot find the file specified)
+2022/10/30 20:49:24 [error] 19628#3772: *767 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", upstream: "fastcgi://127.0.0.1:10002", host: "mbs.local", referrer: "http://mbs.local/wp-admin/options-general.php"
